@@ -1,0 +1,10 @@
+github.com/conejoninja/gamelink v0.0.0-20241213223714-3e3b3f574055 h1:4G8D3qb2dAEoJxvTqNRUz9mw5RqJxFt9tZC7PTxoWSA=
+github.com/conejoninja/gamelink v0.0.0-20241213223714-3e3b3f574055/go.mod h1:ku24ziGRR+Cyd/DJCkSOHpEFJE6rJRRObSpfDMgqeZc=
+github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 h1:El6M4kTTCOh6aBiKaUGG7oYTSPP8MxqL4YI3kZKwcP4=
+github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510/go.mod h1:pupxD2MaaD3pAXIBCelhxNneeOaAeabZDe5s4K6zSpQ=
+github.com/tinygo-org/pio v0.0.0-20250223134105-56a020e0a934 h1:nFydRV+ldcbCocYfGeNoR22ONpDi0TpTr+7ZjIENc+w=
+github.com/tinygo-org/pio v0.0.0-20250223134105-56a020e0a934/go.mod h1:LU7Dw00NJ+N86QkeTGjMLNkYcEYMor6wTDpTCu0EaH8=
+tinygo.org/x/drivers v0.29.0 h1:xHuq8Fr1D/D2+1V/3d+aXufqP81/CLi1itdVbrYgrE0=
+tinygo.org/x/drivers v0.29.0/go.mod h1:q/mU8G/wz821p8xXqbkBACOlmZFDHXd//DnYnCW+dDQ=
+tinygo.org/x/tinyfont v0.5.0 h1:+ApIQzuUuibx/LACLnGY5MWZ/zFwed0RJAnCJCRi2bk=
+tinygo.org/x/tinyfont v0.5.0/go.mod h1:2mKugz6aud3EO2IIBNQ2AbDv13kRD+s7R1U1FZ21Lkw=
