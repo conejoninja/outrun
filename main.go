@@ -39,7 +39,7 @@ var (
 
 	rotaryOldValue, rotaryNewValue int
 
-	state = MENU
+	state = LOAD
 
 	colPins = []machine.Pin{
 		machine.GPIO5,
